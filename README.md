@@ -2,7 +2,7 @@
 Gut microbiome-based machine learning model for colorectal cancer (CRC), including a large number of young/early onset CRC.
 
 **Sample information**
-- Public data: 1262 samples from xx studies, which includes 660 CRC and 662 controls. The integrated data file was obtained from Beghini _et al_.
+- Public data: 1262 samples from 10 studies, which includes 660 CRC and 662 controls. The integrated data file was obtained from Beghini _et al_.
 - Fudan study: 200 samples from a Fudan study Yang _et al_, which incudes 100 CRC (**50 samples from patients under age 50**) and 100 age-matched controls.
 - Unpublished study: 460 newly sequencing CRC samples from patients recruited in a Guangzhou hospital (**167 samples from patients under age 50**).
 
