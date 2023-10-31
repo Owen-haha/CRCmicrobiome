@@ -1,0 +1,418 @@
+INFO  [20:23:43.484] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:23:48.419] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:23:51.285] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:23:53.141] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:23:54.944] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:23:56.639] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:23:58.583] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:24:00.049] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:24:01.687] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:24:03.804] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:24:06.065] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:24:07.515] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:24:09.263] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:24:11.613] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:24:13.430] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:24:15.409] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:24:17.305] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:24:19.020] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:24:20.598] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:24:22.183] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:24:23.698] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:24:25.436] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:24:27.362] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:24:28.963] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:24:30.757] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:24:32.723] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:24:35.004] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:24:36.521] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:24:38.259] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:24:40.137] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:24:41.938] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:24:43.896] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:24:45.995] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:24:47.570] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:24:49.303] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:24:50.937] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:24:53.117] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:24:54.739] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:24:56.257] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:24:57.763] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:24:59.645] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:25:01.262] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:25:03.302] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:25:04.812] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:25:06.858] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:25:08.341] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:25:10.927] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:25:12.865] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:25:14.537] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:25:16.564] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:25:18.589] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:25:20.811] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:25:23.132] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:25:24.780] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:25:27.074] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:25:28.717] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:25:30.550] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:25:32.734] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:25:34.375] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:25:35.920] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:25:37.969] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:25:39.626] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:25:41.996] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:25:43.481] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:25:45.087] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:25:46.851] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:25:49.029] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:25:50.559] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:25:52.319] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:25:54.476] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:25:56.525] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:25:58.518] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:26:00.647] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:26:02.474] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:26:04.082] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:26:06.214] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:26:07.801] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:26:09.263] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:26:11.432] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:26:13.508] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:26:15.622] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:26:17.205] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:26:19.315] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:26:20.620] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:28:35.700] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:28:39.477] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:28:41.513] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:28:42.976] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:28:44.700] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:28:46.221] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:28:47.793] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:28:49.334] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:28:50.744] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:28:52.101] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:28:54.056] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:28:56.056] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:28:58.045] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:29:00.137] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:29:01.919] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:29:03.747] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:29:06.131] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:29:07.958] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:29:09.650] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:29:11.257] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:29:12.856] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:29:14.362] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:29:15.858] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:29:17.325] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:29:19.271] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:29:20.700] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:29:22.120] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:29:23.391] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:29:24.924] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:29:26.773] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:29:28.348] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:29:30.427] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:29:32.456] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:29:33.937] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:29:35.724] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:29:37.755] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:29:39.781] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:29:41.749] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:29:44.055] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:29:46.228] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:29:48.283] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:29:50.440] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:29:52.463] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:29:54.057] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:29:56.338] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:29:58.367] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:30:00.741] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:30:02.309] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:30:04.401] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:30:06.266] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:30:08.012] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:30:09.923] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:30:12.078] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:30:13.814] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:30:16.127] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:30:18.266] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:30:20.556] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:30:22.346] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:30:24.228] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:30:25.673] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:30:27.185] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:30:28.717] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:30:30.404] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:30:31.884] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:30:33.767] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:30:35.685] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:30:37.471] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:30:38.990] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:30:40.791] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:30:42.211] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:30:44.214] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:30:45.969] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:30:47.749] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:30:49.654] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:30:51.329] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:30:53.565] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:30:55.543] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:30:57.234] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:30:58.712] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:31:00.584] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:31:02.453] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:31:04.101] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:31:06.294] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:31:07.892] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:31:09.517] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:31:11.440] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:31:13.208] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:31:14.971] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:31:16.529] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:31:18.463] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:31:20.322] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:31:21.957] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:31:23.512] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:31:25.544] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:31:27.754] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:31:29.970] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:31:32.188] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:31:34.099] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+INFO  [20:31:36.353] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 1/2)
+INFO  [20:31:38.397] [mlr3] Applying learner 'classif.ranger' on task 'oFudan' (iter 2/2)
+
+AUC of 50 times 2-fold cross validation for oFD:
+            [,1]
+ [1,] 0.7608696
+ [2,] 0.8044872
+ [3,] 0.7100000
+ [4,] 0.8058333
+ [5,] 0.7588141
+ [6,] 0.7643678
+ [7,] 0.7874396
+ [8,] 0.6883013
+ [9,] 0.7716346
+[10,] 0.7816000
+[11,] 0.7133655
+[12,] 0.7411859
+[13,] 0.7624000
+[14,] 0.7750411
+[15,] 0.7175698
+[16,] 0.7720000
+[17,] 0.7776000
+[18,] 0.7716346
+[19,] 0.7672000
+[20,] 0.7777778
+[21,] 0.7700321
+[22,] 0.7576000
+[23,] 0.7403846
+[24,] 0.7403846
+[25,] 0.7975000
+[26,] 0.7424000
+[27,] 0.7648000
+[28,] 0.7996795
+[29,] 0.7628205
+[30,] 0.7508333
+[31,] 0.8036859
+[32,] 0.8052885
+[33,] 0.7556090
+[34,] 0.7721417
+[35,] 0.7903226
+[36,] 0.7512077
+[37,] 0.7455717
+[38,] 0.7463768
+[39,] 0.7386364
+[40,] 0.7533333
+[41,] 0.7641667
+[42,] 0.7908654
+[43,] 0.7403846
+[44,] 0.7426948
+[45,] 0.8051948
+[46,] 0.7780449
+[47,] 0.7328000
+[48,] 0.7777778
+[49,] 0.7775000
+[50,] 0.6956522
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.6883  0.7434  0.7643  0.7621  0.7778  0.8058 
+
+oFD predict yFD:
+classif.auc 
+      0.768 
+
+oFD predict oGuangzhou:
+classif.ce 
+ 0.7918089 
+
+oFD predict yGuangzhou:
+classif.ce 
+ 0.7365269 
+INFO  [20:31:47.058] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 1/2)
+INFO  [20:31:48.986] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 2/2)
+INFO  [20:31:50.694] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 1/2)
+INFO  [20:31:52.473] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 2/2)
+INFO  [20:31:54.120] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 1/2)
+INFO  [20:31:56.049] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 2/2)
+INFO  [20:31:58.063] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 1/2)
+INFO  [20:32:00.349] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 2/2)
+INFO  [20:32:02.591] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 1/2)
+INFO  [20:32:04.288] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 2/2)
+INFO  [20:32:05.894] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 1/2)
+INFO  [20:32:07.335] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 2/2)
+INFO  [20:32:08.884] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 1/2)
+INFO  [20:32:10.310] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 2/2)
+INFO  [20:32:12.032] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 1/2)
+INFO  [20:32:13.490] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 2/2)
+INFO  [20:32:15.139] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 1/2)
+INFO  [20:32:16.995] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 2/2)
+INFO  [20:32:18.635] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 1/2)
+INFO  [20:32:20.303] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 2/2)
+INFO  [20:32:22.447] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 1/2)
+INFO  [20:32:24.611] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 2/2)
+INFO  [20:32:26.883] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 1/2)
+INFO  [20:32:29.613] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 2/2)
+INFO  [20:32:31.522] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 1/2)
+INFO  [20:32:33.042] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 2/2)
+INFO  [20:32:34.694] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 1/2)
+INFO  [20:32:36.680] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 2/2)
+INFO  [20:32:38.922] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 1/2)
+INFO  [20:32:40.465] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 2/2)
+INFO  [20:32:42.732] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 1/2)
+INFO  [20:32:44.068] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 2/2)
+INFO  [20:32:45.617] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 1/2)
+INFO  [20:32:47.363] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 2/2)
+INFO  [20:32:49.481] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 1/2)
+INFO  [20:32:51.597] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 2/2)
+INFO  [20:32:53.463] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 1/2)
+INFO  [20:32:55.421] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 2/2)
+INFO  [20:32:57.642] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 1/2)
+INFO  [20:32:59.704] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 2/2)
+INFO  [20:33:01.739] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 1/2)
+INFO  [20:33:03.210] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 2/2)
+INFO  [20:33:04.770] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 1/2)
+INFO  [20:33:06.225] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 2/2)
+INFO  [20:33:08.031] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 1/2)
+INFO  [20:33:09.425] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 2/2)
+INFO  [20:33:11.386] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 1/2)
+INFO  [20:33:13.552] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 2/2)
+INFO  [20:33:15.750] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 1/2)
+INFO  [20:33:17.763] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 2/2)
+INFO  [20:33:20.154] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 1/2)
+INFO  [20:33:22.135] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 2/2)
+INFO  [20:33:23.744] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 1/2)
+INFO  [20:33:25.173] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 2/2)
+INFO  [20:33:27.219] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 1/2)
+INFO  [20:33:28.740] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 2/2)
+INFO  [20:33:30.942] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 1/2)
+INFO  [20:33:32.778] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 2/2)
+INFO  [20:33:35.179] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 1/2)
+INFO  [20:33:37.284] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 2/2)
+INFO  [20:33:38.840] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 1/2)
+INFO  [20:33:40.616] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 2/2)
+INFO  [20:33:42.368] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 1/2)
+INFO  [20:33:43.860] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 2/2)
+INFO  [20:33:45.409] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 1/2)
+INFO  [20:33:46.959] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 2/2)
+INFO  [20:33:48.523] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 1/2)
+INFO  [20:33:50.035] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 2/2)
+INFO  [20:33:52.073] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 1/2)
+INFO  [20:33:53.530] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 2/2)
+INFO  [20:33:54.881] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 1/2)
+INFO  [20:33:57.038] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 2/2)
+INFO  [20:33:58.743] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 1/2)
+INFO  [20:34:00.197] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 2/2)
+INFO  [20:34:01.786] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 1/2)
+INFO  [20:34:03.380] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 2/2)
+INFO  [20:34:05.033] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 1/2)
+INFO  [20:34:06.478] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 2/2)
+INFO  [20:34:08.126] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 1/2)
+INFO  [20:34:09.797] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 2/2)
+INFO  [20:34:11.357] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 1/2)
+INFO  [20:34:12.775] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 2/2)
+INFO  [20:34:14.511] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 1/2)
+INFO  [20:34:15.891] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 2/2)
+INFO  [20:34:17.535] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 1/2)
+INFO  [20:34:19.047] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 2/2)
+INFO  [20:34:20.674] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 1/2)
+INFO  [20:34:22.121] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 2/2)
+INFO  [20:34:23.636] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 1/2)
+INFO  [20:34:25.504] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 2/2)
+INFO  [20:34:27.743] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 1/2)
+INFO  [20:34:29.322] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 2/2)
+INFO  [20:34:30.913] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 1/2)
+INFO  [20:34:32.412] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 2/2)
+INFO  [20:34:34.035] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 1/2)
+INFO  [20:34:35.525] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 2/2)
+INFO  [20:34:37.199] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 1/2)
+INFO  [20:34:38.809] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 2/2)
+INFO  [20:34:40.946] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 1/2)
+INFO  [20:34:42.610] [mlr3] Applying learner 'classif.ranger' on task 'yFudan' (iter 2/2)
+
+AUC of 50 times 2-fold cross validation for yFD:
+            [,1]
+ [1,] 0.8072000
+ [2,] 0.7608696
+ [3,] 0.7872000
+ [4,] 0.8221154
+ [5,] 0.7753623
+ [6,] 0.7508117
+ [7,] 0.7724359
+ [8,] 0.7800000
+ [9,] 0.6809269
+[10,] 0.7126623
+[11,] 0.8120000
+[12,] 0.7801932
+[13,] 0.7280000
+[14,] 0.7804487
+[15,] 0.7589286
+[16,] 0.7970779
+[17,] 0.8036859
+[18,] 0.7464000
+[19,] 0.8587849
+[20,] 0.7880000
+[21,] 0.7407407
+[22,] 0.8083736
+[23,] 0.7876603
+[24,] 0.7632850
+[25,] 0.7992000
+[26,] 0.8157051
+[27,] 0.6800000
+[28,] 0.7704000
+[29,] 0.7068966
+[30,] 0.6916667
+[31,] 0.6774194
+[32,] 0.7043269
+[33,] 0.7756410
+[34,] 0.8531409
+[35,] 0.7801932
+[36,] 0.7512077
+[37,] 0.7948718
+[38,] 0.7908654
+[39,] 0.8549679
+[40,] 0.7008333
+[41,] 0.7516026
+[42,] 0.7780449
+[43,] 0.7256000
+[44,] 0.7552000
+[45,] 0.8108333
+[46,] 0.7751623
+[47,] 0.8229167
+[48,] 0.8172303
+[49,] 0.8181818
+[50,] 0.7979066
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.6774  0.7509  0.7790  0.7721  0.8026  0.8588 
+
+yFD predict oFD:
+classif.auc 
+      0.752 
+
+yFD predict oGuangzhou:
+classif.ce 
+ 0.5324232 
+
+yFD predict yGuangzhou:
+classif.ce 
+ 0.5808383 

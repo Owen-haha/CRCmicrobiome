@@ -1,0 +1,328 @@
+Growing trees.. Progress: 33%. Estimated remaining time: 1 minute, 4 seconds.
+Growing trees.. Progress: 68%. Estimated remaining time: 28 seconds.
+
+pub_gz predict oFudan:
+classif.auc 
+       0.78 
+
+pub_gz predict yFudan:
+classif.auc 
+      0.786 
+
+AUC of 10-fold cross validation for pub_gz:
+INFO  [20:26:22.560] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 1/10)
+Growing trees.. Progress: 39%. Estimated remaining time: 48 seconds.
+Growing trees.. Progress: 83%. Estimated remaining time: 12 seconds.
+INFO  [20:27:47.141] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 2/10)
+Growing trees.. Progress: 45%. Estimated remaining time: 38 seconds.
+Growing trees.. Progress: 91%. Estimated remaining time: 5 seconds.
+INFO  [20:29:03.842] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 3/10)
+Growing trees.. Progress: 43%. Estimated remaining time: 40 seconds.
+Growing trees.. Progress: 88%. Estimated remaining time: 8 seconds.
+INFO  [20:30:22.412] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 4/10)
+Growing trees.. Progress: 43%. Estimated remaining time: 41 seconds.
+Growing trees.. Progress: 85%. Estimated remaining time: 11 seconds.
+INFO  [20:31:44.728] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 5/10)
+Growing trees.. Progress: 40%. Estimated remaining time: 47 seconds.
+Growing trees.. Progress: 79%. Estimated remaining time: 16 seconds.
+INFO  [20:33:12.604] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 6/10)
+Growing trees.. Progress: 41%. Estimated remaining time: 43 seconds.
+Growing trees.. Progress: 83%. Estimated remaining time: 12 seconds.
+INFO  [20:34:38.725] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 7/10)
+Growing trees.. Progress: 40%. Estimated remaining time: 47 seconds.
+Growing trees.. Progress: 83%. Estimated remaining time: 12 seconds.
+INFO  [20:36:01.921] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 8/10)
+Growing trees.. Progress: 43%. Estimated remaining time: 41 seconds.
+Growing trees.. Progress: 90%. Estimated remaining time: 7 seconds.
+INFO  [20:37:19.631] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 9/10)
+Growing trees.. Progress: 39%. Estimated remaining time: 48 seconds.
+Growing trees.. Progress: 77%. Estimated remaining time: 18 seconds.
+INFO  [20:38:48.547] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 10/10)
+Growing trees.. Progress: 41%. Estimated remaining time: 44 seconds.
+Growing trees.. Progress: 80%. Estimated remaining time: 15 seconds.
+INFO  [20:40:15.972] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 1/10)
+Growing trees.. Progress: 43%. Estimated remaining time: 41 seconds.
+Growing trees.. Progress: 85%. Estimated remaining time: 10 seconds.
+INFO  [20:41:38.266] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 2/10)
+Growing trees.. Progress: 41%. Estimated remaining time: 44 seconds.
+Growing trees.. Progress: 82%. Estimated remaining time: 13 seconds.
+INFO  [20:43:02.743] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 3/10)
+Growing trees.. Progress: 42%. Estimated remaining time: 42 seconds.
+Growing trees.. Progress: 81%. Estimated remaining time: 14 seconds.
+INFO  [20:44:30.539] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 4/10)
+Growing trees.. Progress: 39%. Estimated remaining time: 47 seconds.
+Growing trees.. Progress: 81%. Estimated remaining time: 14 seconds.
+INFO  [20:45:57.454] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 5/10)
+Growing trees.. Progress: 47%. Estimated remaining time: 34 seconds.
+Growing trees.. Progress: 97%. Estimated remaining time: 1 seconds.
+INFO  [20:47:11.174] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 6/10)
+Growing trees.. Progress: 39%. Estimated remaining time: 47 seconds.
+Growing trees.. Progress: 79%. Estimated remaining time: 16 seconds.
+INFO  [20:48:37.595] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 7/10)
+Growing trees.. Progress: 41%. Estimated remaining time: 45 seconds.
+Growing trees.. Progress: 82%. Estimated remaining time: 13 seconds.
+INFO  [20:50:02.520] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 8/10)
+Growing trees.. Progress: 45%. Estimated remaining time: 38 seconds.
+Growing trees.. Progress: 85%. Estimated remaining time: 11 seconds.
+INFO  [20:51:25.894] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 9/10)
+Growing trees.. Progress: 39%. Estimated remaining time: 48 seconds.
+Growing trees.. Progress: 82%. Estimated remaining time: 14 seconds.
+INFO  [20:52:51.306] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 10/10)
+Growing trees.. Progress: 40%. Estimated remaining time: 46 seconds.
+Growing trees.. Progress: 82%. Estimated remaining time: 14 seconds.
+INFO  [20:54:18.387] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 1/10)
+Growing trees.. Progress: 41%. Estimated remaining time: 44 seconds.
+Growing trees.. Progress: 82%. Estimated remaining time: 13 seconds.
+INFO  [20:55:42.708] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 2/10)
+Growing trees.. Progress: 47%. Estimated remaining time: 34 seconds.
+Growing trees.. Progress: 87%. Estimated remaining time: 8 seconds.
+INFO  [20:57:03.798] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 3/10)
+Growing trees.. Progress: 42%. Estimated remaining time: 43 seconds.
+Growing trees.. Progress: 80%. Estimated remaining time: 15 seconds.
+INFO  [20:58:29.947] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 4/10)
+Growing trees.. Progress: 42%. Estimated remaining time: 43 seconds.
+Growing trees.. Progress: 84%. Estimated remaining time: 12 seconds.
+INFO  [20:59:55.020] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 5/10)
+Growing trees.. Progress: 40%. Estimated remaining time: 47 seconds.
+Growing trees.. Progress: 79%. Estimated remaining time: 16 seconds.
+INFO  [21:01:19.619] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 6/10)
+Growing trees.. Progress: 45%. Estimated remaining time: 38 seconds.
+Growing trees.. Progress: 88%. Estimated remaining time: 8 seconds.
+INFO  [21:02:39.413] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 7/10)
+Growing trees.. Progress: 47%. Estimated remaining time: 35 seconds.
+Growing trees.. Progress: 94%. Estimated remaining time: 4 seconds.
+INFO  [21:03:54.690] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 8/10)
+Growing trees.. Progress: 44%. Estimated remaining time: 39 seconds.
+Growing trees.. Progress: 88%. Estimated remaining time: 8 seconds.
+INFO  [21:05:15.881] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 9/10)
+Growing trees.. Progress: 41%. Estimated remaining time: 44 seconds.
+Growing trees.. Progress: 80%. Estimated remaining time: 15 seconds.
+INFO  [21:06:40.378] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 10/10)
+Growing trees.. Progress: 42%. Estimated remaining time: 42 seconds.
+Growing trees.. Progress: 84%. Estimated remaining time: 11 seconds.
+INFO  [21:08:03.053] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 1/10)
+Growing trees.. Progress: 42%. Estimated remaining time: 42 seconds.
+Growing trees.. Progress: 88%. Estimated remaining time: 8 seconds.
+INFO  [21:09:22.783] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 2/10)
+Growing trees.. Progress: 44%. Estimated remaining time: 39 seconds.
+Growing trees.. Progress: 88%. Estimated remaining time: 8 seconds.
+INFO  [21:10:42.218] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 3/10)
+Growing trees.. Progress: 42%. Estimated remaining time: 42 seconds.
+Growing trees.. Progress: 86%. Estimated remaining time: 10 seconds.
+INFO  [21:12:04.036] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 4/10)
+Growing trees.. Progress: 42%. Estimated remaining time: 42 seconds.
+Growing trees.. Progress: 87%. Estimated remaining time: 9 seconds.
+INFO  [21:13:23.178] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 5/10)
+Growing trees.. Progress: 46%. Estimated remaining time: 36 seconds.
+Growing trees.. Progress: 88%. Estimated remaining time: 8 seconds.
+INFO  [21:14:43.760] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 6/10)
+Growing trees.. Progress: 41%. Estimated remaining time: 44 seconds.
+Growing trees.. Progress: 83%. Estimated remaining time: 12 seconds.
+INFO  [21:16:07.563] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 7/10)
+Growing trees.. Progress: 50%. Estimated remaining time: 30 seconds.
+INFO  [21:17:17.589] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 8/10)
+Growing trees.. Progress: 42%. Estimated remaining time: 43 seconds.
+Growing trees.. Progress: 83%. Estimated remaining time: 12 seconds.
+INFO  [21:18:40.974] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 9/10)
+Growing trees.. Progress: 40%. Estimated remaining time: 46 seconds.
+Growing trees.. Progress: 83%. Estimated remaining time: 12 seconds.
+INFO  [21:20:05.655] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 10/10)
+Growing trees.. Progress: 50%. Estimated remaining time: 30 seconds.
+Growing trees.. Progress: 99%. Estimated remaining time: 0 seconds.
+INFO  [21:21:17.783] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 1/10)
+Growing trees.. Progress: 41%. Estimated remaining time: 44 seconds.
+Growing trees.. Progress: 85%. Estimated remaining time: 10 seconds.
+INFO  [21:22:40.330] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 2/10)
+Growing trees.. Progress: 38%. Estimated remaining time: 51 seconds.
+Growing trees.. Progress: 79%. Estimated remaining time: 16 seconds.
+INFO  [21:24:07.390] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 3/10)
+Growing trees.. Progress: 41%. Estimated remaining time: 44 seconds.
+Growing trees.. Progress: 82%. Estimated remaining time: 13 seconds.
+INFO  [21:25:32.485] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 4/10)
+Growing trees.. Progress: 44%. Estimated remaining time: 39 seconds.
+Growing trees.. Progress: 87%. Estimated remaining time: 9 seconds.
+INFO  [21:26:53.424] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 5/10)
+Growing trees.. Progress: 42%. Estimated remaining time: 43 seconds.
+Growing trees.. Progress: 91%. Estimated remaining time: 6 seconds.
+INFO  [21:28:09.730] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 6/10)
+Growing trees.. Progress: 47%. Estimated remaining time: 34 seconds.
+Growing trees.. Progress: 100%. Estimated remaining time: 0 seconds.
+INFO  [21:29:20.886] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 7/10)
+Growing trees.. Progress: 41%. Estimated remaining time: 45 seconds.
+Growing trees.. Progress: 82%. Estimated remaining time: 13 seconds.
+INFO  [21:30:45.399] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 8/10)
+Growing trees.. Progress: 43%. Estimated remaining time: 41 seconds.
+Growing trees.. Progress: 86%. Estimated remaining time: 10 seconds.
+INFO  [21:32:06.270] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 9/10)
+Growing trees.. Progress: 43%. Estimated remaining time: 40 seconds.
+Growing trees.. Progress: 87%. Estimated remaining time: 9 seconds.
+INFO  [21:33:28.185] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 10/10)
+Growing trees.. Progress: 40%. Estimated remaining time: 47 seconds.
+Growing trees.. Progress: 79%. Estimated remaining time: 16 seconds.
+INFO  [21:34:55.472] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 1/10)
+Growing trees.. Progress: 45%. Estimated remaining time: 37 seconds.
+Growing trees.. Progress: 90%. Estimated remaining time: 6 seconds.
+INFO  [21:36:13.771] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 2/10)
+Growing trees.. Progress: 42%. Estimated remaining time: 42 seconds.
+Growing trees.. Progress: 87%. Estimated remaining time: 9 seconds.
+INFO  [21:37:33.880] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 3/10)
+Growing trees.. Progress: 45%. Estimated remaining time: 37 seconds.
+Growing trees.. Progress: 91%. Estimated remaining time: 6 seconds.
+INFO  [21:38:52.179] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 4/10)
+Growing trees.. Progress: 44%. Estimated remaining time: 39 seconds.
+Growing trees.. Progress: 88%. Estimated remaining time: 8 seconds.
+INFO  [21:40:12.335] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 5/10)
+Growing trees.. Progress: 47%. Estimated remaining time: 34 seconds.
+Growing trees.. Progress: 88%. Estimated remaining time: 8 seconds.
+INFO  [21:41:32.251] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 6/10)
+Growing trees.. Progress: 44%. Estimated remaining time: 39 seconds.
+Growing trees.. Progress: 91%. Estimated remaining time: 6 seconds.
+INFO  [21:42:50.041] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 7/10)
+Growing trees.. Progress: 42%. Estimated remaining time: 43 seconds.
+Growing trees.. Progress: 88%. Estimated remaining time: 8 seconds.
+INFO  [21:44:08.299] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 8/10)
+Growing trees.. Progress: 48%. Estimated remaining time: 32 seconds.
+Growing trees.. Progress: 97%. Estimated remaining time: 2 seconds.
+INFO  [21:45:21.784] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 9/10)
+Growing trees.. Progress: 46%. Estimated remaining time: 36 seconds.
+Growing trees.. Progress: 90%. Estimated remaining time: 7 seconds.
+INFO  [21:46:39.688] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 10/10)
+Growing trees.. Progress: 50%. Estimated remaining time: 31 seconds.
+Growing trees.. Progress: 99%. Estimated remaining time: 0 seconds.
+INFO  [21:47:52.682] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 1/10)
+Growing trees.. Progress: 48%. Estimated remaining time: 33 seconds.
+Growing trees.. Progress: 100%. Estimated remaining time: 0 seconds.
+INFO  [21:49:03.945] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 2/10)
+Growing trees.. Progress: 44%. Estimated remaining time: 40 seconds.
+Growing trees.. Progress: 91%. Estimated remaining time: 6 seconds.
+INFO  [21:50:19.628] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 3/10)
+Growing trees.. Progress: 41%. Estimated remaining time: 45 seconds.
+Growing trees.. Progress: 83%. Estimated remaining time: 12 seconds.
+INFO  [21:51:44.425] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 4/10)
+Growing trees.. Progress: 40%. Estimated remaining time: 46 seconds.
+Growing trees.. Progress: 81%. Estimated remaining time: 14 seconds.
+INFO  [21:53:10.491] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 5/10)
+Growing trees.. Progress: 46%. Estimated remaining time: 36 seconds.
+Growing trees.. Progress: 94%. Estimated remaining time: 3 seconds.
+INFO  [21:54:25.083] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 6/10)
+Growing trees.. Progress: 41%. Estimated remaining time: 45 seconds.
+Growing trees.. Progress: 86%. Estimated remaining time: 10 seconds.
+INFO  [21:55:45.711] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 7/10)
+Growing trees.. Progress: 40%. Estimated remaining time: 46 seconds.
+Growing trees.. Progress: 82%. Estimated remaining time: 13 seconds.
+INFO  [21:57:10.528] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 8/10)
+Growing trees.. Progress: 42%. Estimated remaining time: 42 seconds.
+Growing trees.. Progress: 85%. Estimated remaining time: 10 seconds.
+INFO  [21:58:31.020] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 9/10)
+Growing trees.. Progress: 39%. Estimated remaining time: 47 seconds.
+Growing trees.. Progress: 82%. Estimated remaining time: 13 seconds.
+INFO  [21:59:56.100] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 10/10)
+Growing trees.. Progress: 42%. Estimated remaining time: 42 seconds.
+Growing trees.. Progress: 90%. Estimated remaining time: 6 seconds.
+INFO  [22:01:13.898] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 1/10)
+Growing trees.. Progress: 43%. Estimated remaining time: 41 seconds.
+Growing trees.. Progress: 84%. Estimated remaining time: 11 seconds.
+INFO  [22:02:37.175] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 2/10)
+Growing trees.. Progress: 42%. Estimated remaining time: 42 seconds.
+Growing trees.. Progress: 84%. Estimated remaining time: 11 seconds.
+INFO  [22:03:59.692] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 3/10)
+Growing trees.. Progress: 49%. Estimated remaining time: 31 seconds.
+Growing trees.. Progress: 97%. Estimated remaining time: 1 seconds.
+INFO  [22:05:11.665] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 4/10)
+Growing trees.. Progress: 43%. Estimated remaining time: 40 seconds.
+Growing trees.. Progress: 88%. Estimated remaining time: 8 seconds.
+INFO  [22:06:31.120] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 5/10)
+Growing trees.. Progress: 42%. Estimated remaining time: 42 seconds.
+Growing trees.. Progress: 88%. Estimated remaining time: 8 seconds.
+INFO  [22:07:49.704] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 6/10)
+Growing trees.. Progress: 46%. Estimated remaining time: 36 seconds.
+Growing trees.. Progress: 92%. Estimated remaining time: 5 seconds.
+INFO  [22:09:07.879] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 7/10)
+Growing trees.. Progress: 42%. Estimated remaining time: 42 seconds.
+Growing trees.. Progress: 90%. Estimated remaining time: 7 seconds.
+INFO  [22:10:27.930] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 8/10)
+Growing trees.. Progress: 46%. Estimated remaining time: 36 seconds.
+Growing trees.. Progress: 91%. Estimated remaining time: 6 seconds.
+INFO  [22:11:45.110] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 9/10)
+Growing trees.. Progress: 46%. Estimated remaining time: 36 seconds.
+Growing trees.. Progress: 91%. Estimated remaining time: 6 seconds.
+INFO  [22:13:02.176] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 10/10)
+Growing trees.. Progress: 42%. Estimated remaining time: 42 seconds.
+Growing trees.. Progress: 86%. Estimated remaining time: 10 seconds.
+INFO  [22:14:23.212] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 1/10)
+Growing trees.. Progress: 44%. Estimated remaining time: 40 seconds.
+Growing trees.. Progress: 87%. Estimated remaining time: 9 seconds.
+INFO  [22:15:44.183] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 2/10)
+Growing trees.. Progress: 45%. Estimated remaining time: 38 seconds.
+Growing trees.. Progress: 89%. Estimated remaining time: 7 seconds.
+INFO  [22:17:01.975] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 3/10)
+Growing trees.. Progress: 40%. Estimated remaining time: 45 seconds.
+Growing trees.. Progress: 82%. Estimated remaining time: 13 seconds.
+INFO  [22:18:25.774] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 4/10)
+Growing trees.. Progress: 45%. Estimated remaining time: 38 seconds.
+Growing trees.. Progress: 85%. Estimated remaining time: 11 seconds.
+INFO  [22:19:48.119] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 5/10)
+Growing trees.. Progress: 39%. Estimated remaining time: 48 seconds.
+Growing trees.. Progress: 80%. Estimated remaining time: 15 seconds.
+INFO  [22:21:14.010] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 6/10)
+Growing trees.. Progress: 41%. Estimated remaining time: 45 seconds.
+Growing trees.. Progress: 84%. Estimated remaining time: 12 seconds.
+INFO  [22:22:42.010] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 7/10)
+Growing trees.. Progress: 49%. Estimated remaining time: 32 seconds.
+Growing trees.. Progress: 98%. Estimated remaining time: 1 seconds.
+INFO  [22:23:52.847] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 8/10)
+Growing trees.. Progress: 47%. Estimated remaining time: 34 seconds.
+Growing trees.. Progress: 94%. Estimated remaining time: 4 seconds.
+INFO  [22:25:08.074] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 9/10)
+Growing trees.. Progress: 43%. Estimated remaining time: 40 seconds.
+Growing trees.. Progress: 88%. Estimated remaining time: 8 seconds.
+INFO  [22:26:26.158] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 10/10)
+Growing trees.. Progress: 46%. Estimated remaining time: 37 seconds.
+Growing trees.. Progress: 92%. Estimated remaining time: 5 seconds.
+INFO  [22:27:43.440] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 1/10)
+Growing trees.. Progress: 43%. Estimated remaining time: 41 seconds.
+Growing trees.. Progress: 94%. Estimated remaining time: 4 seconds.
+INFO  [22:28:58.053] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 2/10)
+Growing trees.. Progress: 44%. Estimated remaining time: 39 seconds.
+Growing trees.. Progress: 87%. Estimated remaining time: 8 seconds.
+INFO  [22:30:17.225] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 3/10)
+Growing trees.. Progress: 48%. Estimated remaining time: 33 seconds.
+Growing trees.. Progress: 95%. Estimated remaining time: 3 seconds.
+INFO  [22:31:31.823] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 4/10)
+Growing trees.. Progress: 42%. Estimated remaining time: 43 seconds.
+Growing trees.. Progress: 87%. Estimated remaining time: 9 seconds.
+INFO  [22:32:51.277] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 5/10)
+Growing trees.. Progress: 46%. Estimated remaining time: 35 seconds.
+Growing trees.. Progress: 93%. Estimated remaining time: 4 seconds.
+INFO  [22:34:07.756] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 6/10)
+Growing trees.. Progress: 50%. Estimated remaining time: 31 seconds.
+INFO  [22:35:17.942] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 7/10)
+Growing trees.. Progress: 43%. Estimated remaining time: 40 seconds.
+Growing trees.. Progress: 86%. Estimated remaining time: 10 seconds.
+INFO  [22:36:39.946] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 8/10)
+Growing trees.. Progress: 45%. Estimated remaining time: 38 seconds.
+Growing trees.. Progress: 86%. Estimated remaining time: 10 seconds.
+INFO  [22:38:00.410] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 9/10)
+Growing trees.. Progress: 40%. Estimated remaining time: 47 seconds.
+Growing trees.. Progress: 82%. Estimated remaining time: 14 seconds.
+INFO  [22:39:25.030] [mlr3] Applying learner 'classif.ranger' on task 'pub_gz' (iter 10/10)
+Growing trees.. Progress: 44%. Estimated remaining time: 40 seconds.
+Growing trees.. Progress: 89%. Estimated remaining time: 7 seconds.
+           [,1]
+ [1,] 0.9096251
+ [2,] 0.9088914
+ [3,] 0.9088003
+ [4,] 0.9098157
+ [5,] 0.9092127
+ [6,] 0.9101864
+ [7,] 0.9086297
+ [8,] 0.9076579
+ [9,] 0.9087959
+[10,] 0.9080612
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.9077  0.9087  0.9088  0.9090  0.9095  0.9102 
+Warning message:
+Ignoring unknown parameters: linewidth 
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
