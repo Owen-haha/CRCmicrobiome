@@ -1,0 +1,210 @@
+Loading required package: mlr3
+Loading required package: phyloseq
++ starting create.label
+Label used as case:
+   CRC
+Label used as control:
+   control
++ finished create.label.from.metadata in 0.009 s
++ starting validate.data
++++ checking overlap between labels and features
++ Keeping labels of 100 sample(s).
++ Removed 560 samples from the label object...
++++ checking sample number per class
++++ checking overlap between samples and metadata
++ finished validate.data in 0.058 s
++ starting create.label
+Label used as case:
+   CRC
+Label used as control:
+   control
++ finished create.label.from.metadata in 0.003 s
++ starting validate.data
++++ checking overlap between labels and features
++ Keeping labels of 100 sample(s).
++ Removed 560 samples from the label object...
++++ checking sample number per class
++++ checking overlap between samples and metadata
++ finished validate.data in 0.049 s
++ starting create.label
+Label used as case:
+   CRC
+Label used as control:
+   control
++ finished create.label.from.metadata in 0.003 s
++ starting validate.data
++++ checking overlap between labels and features
++ Keeping labels of 200 sample(s).
++++ checking sample number per class
++++ checking overlap between samples and metadata
++ finished validate.data in 0.051 s
+Features successfully filtered
+Features normalized successfully.
+Features splitted for cross-validation successfully.
+Trained lasso models successfully.
+cross validation of oFD+yFD:
+Made predictions successfully.
+Evaluated predictions successfully.
+siamcat-class object
+label()                Label object:         100 control and 100 CRC samples
+filt_feat()            Filtered features:    184 features after abundance filtering
+norm_feat()            Normalized features:  184 features normalized using log.std
+data_split()           Data split:           10 cv rounds with 10 folds
+model_list()           Model list:           100 lasso models
+feature_weights()      Feature weights:      Summary of feature weights [ see also weight_matrix() ]
+pred_matrix()          Prediction matrix:    Predictions for 200 samples from 10 cv rounds
+eval_data()            Evaluation data:      Average AUC: 0.727
+
+contains phyloseq-class experiment-level object @phyloseq:
+phyloseq@otu_table()   OTU Table:            [ 199 taxa and 200 samples ]
+phyloseq@sam_data()    Sample Data:          [ 200 samples by 1 sample variables ]
+Successfully plotted model interpretation plot to: interpretation_fd_model.pdf
+Warning message:
+In model.interpretation.select.features(feature.weights = feature.weights,  :
+  WARNING: restricting amount of features to be plotted to 50
+oFD+yFD predict oGZ:
++ starting validate.data
++++ checking overlap between labels and features
++ Keeping labels of 293 sample(s).
++ finished validate.data in 0.025 s
+Features normalized successfully.
+Made predictions successfully.
+Warning message:
+In validate.label(label, feat, meta, case, control, verbose) :
+  No label information given! Generating SIAMCAT object with placeholder label!
+	This SIAMCAT object is not suitable for the complete workflow...
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.7031  0.7918  0.8157  0.8125  0.8328  0.8976 
+oFD+yFD predict yGZ:
++ starting validate.data
++++ checking overlap between labels and features
++ Keeping labels of 167 sample(s).
++ finished validate.data in 0.019 s
+Features normalized successfully.
+Made predictions successfully.
+Warning message:
+In validate.label(label, feat, meta, case, control, verbose) :
+  No label information given! Generating SIAMCAT object with placeholder label!
+	This SIAMCAT object is not suitable for the complete workflow...
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.7126  0.7904  0.8144  0.8136  0.8383  0.8862 
+Features successfully filtered
+Features normalized successfully.
+Features splitted for cross-validation successfully.
+Trained lasso models successfully.
+cross validation of oFD:
+Made predictions successfully.
+Evaluated predictions successfully.
+siamcat-class object
+label()                Label object:         50 control and 50 CRC samples
+filt_feat()            Filtered features:    180 features after abundance filtering
+norm_feat()            Normalized features:  180 features normalized using log.std
+data_split()           Data split:           100 cv rounds with 10 folds
+model_list()           Model list:           1000 lasso models
+feature_weights()      Feature weights:      Summary of feature weights [ see also weight_matrix() ]
+pred_matrix()          Prediction matrix:    Predictions for 100 samples from 100 cv rounds
+eval_data()            Evaluation data:      Average AUC: 0.669
+
+contains phyloseq-class experiment-level object @phyloseq:
+phyloseq@otu_table()   OTU Table:            [ 199 taxa and 100 samples ]
+phyloseq@sam_data()    Sample Data:          [ 100 samples by 1 sample variables ]
+Successfully plotted model interpretation plot to: interpretation_oFD_model.pdf
+oFD predict yFD:
+Features normalized successfully.
+Made predictions successfully.
+Evaluated predictions successfully.
+siamcat-class object
+label()                Label object:         50 control and 50 CRC samples
+norm_feat()            Normalized features:  180 features normalized using log.std
+pred_matrix()          Prediction matrix:    Predictions for 100 samples from 1000 cv rounds
+eval_data()            Evaluation data:      Average AUC: 0.763
+
+contains phyloseq-class experiment-level object @phyloseq:
+phyloseq@otu_table()   OTU Table:            [ 199 taxa and 100 samples ]
+phyloseq@sam_data()    Sample Data:          [ 100 samples by 1 sample variables ]
+oFD predict oGZ:
++ starting validate.data
++++ checking overlap between labels and features
++ Keeping labels of 293 sample(s).
++ finished validate.data in 0.019 s
+Features normalized successfully.
+Made predictions successfully.
+Warning message:
+In validate.label(label, feat, meta, case, control, verbose) :
+  No label information given! Generating SIAMCAT object with placeholder label!
+	This SIAMCAT object is not suitable for the complete workflow...
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.4573  0.6621  0.7065  0.6998  0.7440  0.8840 
+oFD predict yGZ:
++ starting validate.data
++++ checking overlap between labels and features
++ Keeping labels of 167 sample(s).
++ finished validate.data in 0.022 s
+Features normalized successfully.
+Made predictions successfully.
+Warning message:
+In validate.label(label, feat, meta, case, control, verbose) :
+  No label information given! Generating SIAMCAT object with placeholder label!
+	This SIAMCAT object is not suitable for the complete workflow...
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.3892  0.6347  0.6826  0.6727  0.7201  0.8683 
+Features successfully filtered
+Features normalized successfully.
+Features splitted for cross-validation successfully.
+Trained lasso models successfully.
+cross validation of yFD:
+Made predictions successfully.
+Evaluated predictions successfully.
+siamcat-class object
+label()                Label object:         50 control and 50 CRC samples
+filt_feat()            Filtered features:    163 features after abundance filtering
+norm_feat()            Normalized features:  163 features normalized using log.std
+data_split()           Data split:           100 cv rounds with 10 folds
+model_list()           Model list:           1000 lasso models
+feature_weights()      Feature weights:      Summary of feature weights [ see also weight_matrix() ]
+pred_matrix()          Prediction matrix:    Predictions for 100 samples from 100 cv rounds
+eval_data()            Evaluation data:      Average AUC: 0.778
+
+contains phyloseq-class experiment-level object @phyloseq:
+phyloseq@otu_table()   OTU Table:            [ 199 taxa and 100 samples ]
+phyloseq@sam_data()    Sample Data:          [ 100 samples by 1 sample variables ]
+Successfully plotted model interpretation plot to: interpretation_yFD_model.pdf
+yFD predict oFD:
+Features normalized successfully.
+Made predictions successfully.
+Evaluated predictions successfully.
+siamcat-class object
+label()                Label object:         50 control and 50 CRC samples
+norm_feat()            Normalized features:  163 features normalized using log.std
+pred_matrix()          Prediction matrix:    Predictions for 100 samples from 1000 cv rounds
+eval_data()            Evaluation data:      Average AUC: 0.749
+
+contains phyloseq-class experiment-level object @phyloseq:
+phyloseq@otu_table()   OTU Table:            [ 199 taxa and 100 samples ]
+phyloseq@sam_data()    Sample Data:          [ 100 samples by 1 sample variables ]
+yFD predict oGZ:
++ starting validate.data
++++ checking overlap between labels and features
++ Keeping labels of 293 sample(s).
++ finished validate.data in 0.02 s
+Features normalized successfully.
+Made predictions successfully.
+Warning message:
+In validate.label(label, feat, meta, case, control, verbose) :
+  No label information given! Generating SIAMCAT object with placeholder label!
+	This SIAMCAT object is not suitable for the complete workflow...
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.6109  0.7201  0.7474  0.7482  0.7782  0.8703 
+yFD predict yGZ:
++ starting validate.data
++++ checking overlap between labels and features
++ Keeping labels of 167 sample(s).
++ finished validate.data in 0.024 s
+Features normalized successfully.
+Made predictions successfully.
+Warning message:
+In validate.label(label, feat, meta, case, control, verbose) :
+  No label information given! Generating SIAMCAT object with placeholder label!
+	This SIAMCAT object is not suitable for the complete workflow...
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.6048  0.7425  0.7725  0.7737  0.8024  0.8802 

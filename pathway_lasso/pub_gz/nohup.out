@@ -1,0 +1,96 @@
+Loading required package: mlr3
+Loading required package: phyloseq
++ starting create.label
+Label used as case:
+   CRC
+Label used as control:
+   control
++ finished create.label.from.metadata in 0.01 s
++ starting validate.data
++++ checking overlap between labels and features
++ Keeping labels of 100 sample(s).
++++ checking sample number per class
++++ checking overlap between samples and metadata
++ finished validate.data in 0.061 s
++ starting create.label
+Label used as case:
+   CRC
+Label used as control:
+   control
++ finished create.label.from.metadata in 0.003 s
++ starting validate.data
++++ checking overlap between labels and features
++ Keeping labels of 100 sample(s).
++++ checking sample number per class
++++ checking overlap between samples and metadata
++ finished validate.data in 0.041 s
++ starting create.label
+Label used as case:
+   CRC
+Label used as control:
+   control
++ finished create.label.from.metadata in 0.004 s
++ starting validate.data
++++ checking overlap between labels and features
++ Keeping labels of 1722 sample(s).
++++ checking sample number per class
++++ checking overlap between samples and metadata
++ finished validate.data in 0.115 s
+Features successfully filtered
+Features normalized successfully.
+Features splitted for cross-validation successfully.
+Trained lasso models successfully.
+Warning messages:
+1: from glmnet C++ code (error code -83); Convergence for 83th lambda value not reached after maxit=100000 iterations; solutions for larger lambdas returned 
+2: from glmnet C++ code (error code -73); Convergence for 73th lambda value not reached after maxit=100000 iterations; solutions for larger lambdas returned 
+3: from glmnet C++ code (error code -75); Convergence for 75th lambda value not reached after maxit=100000 iterations; solutions for larger lambdas returned 
+cross validation of pub_gz:
+Made predictions successfully.
+Evaluated predictions successfully.
+siamcat-class object
+label()                Label object:         662 control and 1060 CRC samples
+filt_feat()            Filtered features:    382 features after abundance filtering
+norm_feat()            Normalized features:  382 features normalized using log.std
+data_split()           Data split:           10 cv rounds with 10 folds
+model_list()           Model list:           100 lasso models
+feature_weights()      Feature weights:      Summary of feature weights [ see also weight_matrix() ]
+pred_matrix()          Prediction matrix:    Predictions for 1722 samples from 10 cv rounds
+eval_data()            Evaluation data:      Average AUC: 0.788
+
+contains phyloseq-class experiment-level object @phyloseq:
+phyloseq@otu_table()   OTU Table:            [ 401 taxa and 1722 samples ]
+phyloseq@sam_data()    Sample Data:          [ 1722 samples by 1 sample variables ]
+Successfully plotted model interpretation plot to: interpretation.pdf
+Warning message:
+In model.interpretation.select.features(feature.weights = feature.weights,  :
+  WARNING: restricting amount of features to be plotted to 50
+pub_gz predict oFD:
+Features normalized successfully.
+Made predictions successfully.
+Evaluated predictions successfully.
+siamcat-class object
+label()                Label object:         50 control and 50 CRC samples
+norm_feat()            Normalized features:  382 features normalized using log.std
+pred_matrix()          Prediction matrix:    Predictions for 100 samples from 100 cv rounds
+eval_data()            Evaluation data:      Average AUC: 0.521
+
+contains phyloseq-class experiment-level object @phyloseq:
+phyloseq@otu_table()   OTU Table:            [ 401 taxa and 100 samples ]
+phyloseq@sam_data()    Sample Data:          [ 100 samples by 1 sample variables ]
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.8600  0.9000  0.9400  0.9276  0.9600  0.9800 
+pub_gz predict yFD:
+Features normalized successfully.
+Made predictions successfully.
+Evaluated predictions successfully.
+siamcat-class object
+label()                Label object:         50 control and 50 CRC samples
+norm_feat()            Normalized features:  382 features normalized using log.std
+pred_matrix()          Prediction matrix:    Predictions for 100 samples from 100 cv rounds
+eval_data()            Evaluation data:      Average AUC: 0.587
+
+contains phyloseq-class experiment-level object @phyloseq:
+phyloseq@otu_table()   OTU Table:            [ 401 taxa and 100 samples ]
+phyloseq@sam_data()    Sample Data:          [ 100 samples by 1 sample variables ]
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.8400  0.9000  0.9200  0.9182  0.9400  0.9600 

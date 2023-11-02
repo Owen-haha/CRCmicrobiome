@@ -1,0 +1,532 @@
+Growing trees.. Progress: 19%. Estimated remaining time: 2 minutes, 14 seconds.
+Growing trees.. Progress: 37%. Estimated remaining time: 1 minute, 45 seconds.
+Growing trees.. Progress: 55%. Estimated remaining time: 1 minute, 15 seconds.
+Growing trees.. Progress: 73%. Estimated remaining time: 45 seconds.
+Growing trees.. Progress: 93%. Estimated remaining time: 12 seconds.
+
+pub predict oFudan:
+classif.auc 
+     0.7872 
+
+pub predict yFudan:
+classif.auc 
+     0.6296 
+
+pub predict oGuangzhou:
+classif.ce 
+ 0.6860068 
+
+pub predict yGuangzhou:
+classif.ce 
+ 0.6646707 
+
+AUC of 10-fold cross validation for pub:
+INFO  [16:33:11.170] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 1/10)
+Growing trees.. Progress: 22%. Estimated remaining time: 1 minute, 52 seconds.
+Growing trees.. Progress: 44%. Estimated remaining time: 1 minute, 18 seconds.
+Growing trees.. Progress: 65%. Estimated remaining time: 50 seconds.
+Growing trees.. Progress: 86%. Estimated remaining time: 19 seconds.
+INFO  [16:35:43.766] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 2/10)
+Growing trees.. Progress: 25%. Estimated remaining time: 1 minute, 34 seconds.
+Growing trees.. Progress: 47%. Estimated remaining time: 1 minute, 8 seconds.
+Growing trees.. Progress: 72%. Estimated remaining time: 36 seconds.
+Growing trees.. Progress: 93%. Estimated remaining time: 9 seconds.
+INFO  [16:38:06.039] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 3/10)
+Growing trees.. Progress: 23%. Estimated remaining time: 1 minute, 41 seconds.
+Growing trees.. Progress: 45%. Estimated remaining time: 1 minute, 15 seconds.
+Growing trees.. Progress: 67%. Estimated remaining time: 45 seconds.
+Growing trees.. Progress: 89%. Estimated remaining time: 15 seconds.
+INFO  [16:40:33.689] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 4/10)
+Growing trees.. Progress: 23%. Estimated remaining time: 1 minute, 43 seconds.
+Growing trees.. Progress: 43%. Estimated remaining time: 1 minute, 23 seconds.
+Growing trees.. Progress: 65%. Estimated remaining time: 50 seconds.
+Growing trees.. Progress: 86%. Estimated remaining time: 19 seconds.
+INFO  [16:43:02.511] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 5/10)
+Growing trees.. Progress: 22%. Estimated remaining time: 1 minute, 49 seconds.
+Growing trees.. Progress: 44%. Estimated remaining time: 1 minute, 20 seconds.
+Growing trees.. Progress: 65%. Estimated remaining time: 49 seconds.
+Growing trees.. Progress: 86%. Estimated remaining time: 21 seconds.
+INFO  [16:45:33.635] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 6/10)
+Growing trees.. Progress: 23%. Estimated remaining time: 1 minute, 45 seconds.
+Growing trees.. Progress: 43%. Estimated remaining time: 1 minute, 20 seconds.
+Growing trees.. Progress: 64%. Estimated remaining time: 52 seconds.
+Growing trees.. Progress: 85%. Estimated remaining time: 22 seconds.
+INFO  [16:48:08.730] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 7/10)
+Growing trees.. Progress: 22%. Estimated remaining time: 1 minute, 49 seconds.
+Growing trees.. Progress: 46%. Estimated remaining time: 1 minute, 13 seconds.
+Growing trees.. Progress: 70%. Estimated remaining time: 39 seconds.
+Growing trees.. Progress: 98%. Estimated remaining time: 3 seconds.
+INFO  [16:50:22.190] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 8/10)
+Growing trees.. Progress: 21%. Estimated remaining time: 1 minute, 55 seconds.
+Growing trees.. Progress: 42%. Estimated remaining time: 1 minute, 25 seconds.
+Growing trees.. Progress: 63%. Estimated remaining time: 54 seconds.
+Growing trees.. Progress: 84%. Estimated remaining time: 22 seconds.
+INFO  [16:52:56.467] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 9/10)
+Growing trees.. Progress: 23%. Estimated remaining time: 1 minute, 44 seconds.
+Growing trees.. Progress: 45%. Estimated remaining time: 1 minute, 16 seconds.
+Growing trees.. Progress: 66%. Estimated remaining time: 47 seconds.
+Growing trees.. Progress: 90%. Estimated remaining time: 14 seconds.
+INFO  [16:55:20.656] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 10/10)
+Growing trees.. Progress: 22%. Estimated remaining time: 1 minute, 49 seconds.
+Growing trees.. Progress: 46%. Estimated remaining time: 1 minute, 13 seconds.
+Growing trees.. Progress: 67%. Estimated remaining time: 46 seconds.
+Growing trees.. Progress: 88%. Estimated remaining time: 16 seconds.
+INFO  [16:57:53.731] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 1/10)
+Growing trees.. Progress: 20%. Estimated remaining time: 2 minutes, 3 seconds.
+Growing trees.. Progress: 40%. Estimated remaining time: 1 minute, 33 seconds.
+Growing trees.. Progress: 61%. Estimated remaining time: 1 minute, 0 seconds.
+Growing trees.. Progress: 83%. Estimated remaining time: 24 seconds.
+INFO  [17:00:28.641] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 2/10)
+Growing trees.. Progress: 21%. Estimated remaining time: 1 minute, 53 seconds.
+Growing trees.. Progress: 42%. Estimated remaining time: 1 minute, 24 seconds.
+Growing trees.. Progress: 64%. Estimated remaining time: 52 seconds.
+Growing trees.. Progress: 86%. Estimated remaining time: 20 seconds.
+INFO  [17:03:03.058] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 3/10)
+Growing trees.. Progress: 20%. Estimated remaining time: 2 minutes, 2 seconds.
+Growing trees.. Progress: 43%. Estimated remaining time: 1 minute, 23 seconds.
+Growing trees.. Progress: 63%. Estimated remaining time: 53 seconds.
+Growing trees.. Progress: 84%. Estimated remaining time: 23 seconds.
+INFO  [17:05:38.114] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 4/10)
+Growing trees.. Progress: 22%. Estimated remaining time: 1 minute, 47 seconds.
+Growing trees.. Progress: 43%. Estimated remaining time: 1 minute, 21 seconds.
+Growing trees.. Progress: 65%. Estimated remaining time: 49 seconds.
+Growing trees.. Progress: 86%. Estimated remaining time: 19 seconds.
+INFO  [17:08:08.427] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 5/10)
+Growing trees.. Progress: 22%. Estimated remaining time: 1 minute, 48 seconds.
+Growing trees.. Progress: 45%. Estimated remaining time: 1 minute, 15 seconds.
+Growing trees.. Progress: 67%. Estimated remaining time: 45 seconds.
+Growing trees.. Progress: 89%. Estimated remaining time: 15 seconds.
+INFO  [17:10:36.319] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 6/10)
+Growing trees.. Progress: 21%. Estimated remaining time: 1 minute, 59 seconds.
+Growing trees.. Progress: 43%. Estimated remaining time: 1 minute, 22 seconds.
+Growing trees.. Progress: 65%. Estimated remaining time: 50 seconds.
+Growing trees.. Progress: 86%. Estimated remaining time: 20 seconds.
+INFO  [17:13:09.187] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 7/10)
+Growing trees.. Progress: 21%. Estimated remaining time: 1 minute, 55 seconds.
+Growing trees.. Progress: 42%. Estimated remaining time: 1 minute, 27 seconds.
+Growing trees.. Progress: 63%. Estimated remaining time: 54 seconds.
+Growing trees.. Progress: 84%. Estimated remaining time: 23 seconds.
+INFO  [17:15:44.569] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 8/10)
+Growing trees.. Progress: 24%. Estimated remaining time: 1 minute, 40 seconds.
+Growing trees.. Progress: 45%. Estimated remaining time: 1 minute, 15 seconds.
+Growing trees.. Progress: 67%. Estimated remaining time: 45 seconds.
+Growing trees.. Progress: 89%. Estimated remaining time: 15 seconds.
+INFO  [17:18:11.605] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 9/10)
+Growing trees.. Progress: 21%. Estimated remaining time: 1 minute, 54 seconds.
+Growing trees.. Progress: 44%. Estimated remaining time: 1 minute, 20 seconds.
+Growing trees.. Progress: 65%. Estimated remaining time: 51 seconds.
+Growing trees.. Progress: 85%. Estimated remaining time: 22 seconds.
+INFO  [17:20:47.384] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 10/10)
+Growing trees.. Progress: 21%. Estimated remaining time: 1 minute, 56 seconds.
+Growing trees.. Progress: 40%. Estimated remaining time: 1 minute, 31 seconds.
+Growing trees.. Progress: 60%. Estimated remaining time: 1 minute, 3 seconds.
+Growing trees.. Progress: 80%. Estimated remaining time: 30 seconds.
+INFO  [17:23:29.411] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 1/10)
+Growing trees.. Progress: 20%. Estimated remaining time: 2 minutes, 4 seconds.
+Growing trees.. Progress: 40%. Estimated remaining time: 1 minute, 34 seconds.
+Growing trees.. Progress: 61%. Estimated remaining time: 58 seconds.
+Growing trees.. Progress: 83%. Estimated remaining time: 25 seconds.
+INFO  [17:26:03.449] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 2/10)
+Growing trees.. Progress: 21%. Estimated remaining time: 1 minute, 57 seconds.
+Growing trees.. Progress: 44%. Estimated remaining time: 1 minute, 19 seconds.
+Growing trees.. Progress: 67%. Estimated remaining time: 45 seconds.
+Growing trees.. Progress: 91%. Estimated remaining time: 12 seconds.
+INFO  [17:28:25.796] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 3/10)
+Growing trees.. Progress: 20%. Estimated remaining time: 2 minutes, 3 seconds.
+Growing trees.. Progress: 40%. Estimated remaining time: 1 minute, 32 seconds.
+Growing trees.. Progress: 61%. Estimated remaining time: 59 seconds.
+Growing trees.. Progress: 82%. Estimated remaining time: 26 seconds.
+INFO  [17:31:04.791] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 4/10)
+Growing trees.. Progress: 20%. Estimated remaining time: 2 minutes, 6 seconds.
+Growing trees.. Progress: 41%. Estimated remaining time: 1 minute, 30 seconds.
+Growing trees.. Progress: 61%. Estimated remaining time: 58 seconds.
+Growing trees.. Progress: 81%. Estimated remaining time: 28 seconds.
+INFO  [17:33:48.751] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 5/10)
+Growing trees.. Progress: 20%. Estimated remaining time: 2 minutes, 3 seconds.
+Growing trees.. Progress: 41%. Estimated remaining time: 1 minute, 27 seconds.
+Growing trees.. Progress: 63%. Estimated remaining time: 54 seconds.
+Growing trees.. Progress: 83%. Estimated remaining time: 24 seconds.
+INFO  [17:36:26.242] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 6/10)
+Growing trees.. Progress: 21%. Estimated remaining time: 1 minute, 55 seconds.
+Growing trees.. Progress: 42%. Estimated remaining time: 1 minute, 25 seconds.
+Growing trees.. Progress: 65%. Estimated remaining time: 50 seconds.
+Growing trees.. Progress: 87%. Estimated remaining time: 18 seconds.
+INFO  [17:38:57.507] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 7/10)
+Growing trees.. Progress: 23%. Estimated remaining time: 1 minute, 44 seconds.
+Growing trees.. Progress: 46%. Estimated remaining time: 1 minute, 11 seconds.
+Growing trees.. Progress: 69%. Estimated remaining time: 41 seconds.
+Growing trees.. Progress: 91%. Estimated remaining time: 12 seconds.
+INFO  [17:41:24.139] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 8/10)
+Growing trees.. Progress: 20%. Estimated remaining time: 2 minutes, 6 seconds.
+Growing trees.. Progress: 42%. Estimated remaining time: 1 minute, 26 seconds.
+Growing trees.. Progress: 65%. Estimated remaining time: 50 seconds.
+Growing trees.. Progress: 87%. Estimated remaining time: 18 seconds.
+INFO  [17:43:53.670] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 9/10)
+Growing trees.. Progress: 22%. Estimated remaining time: 1 minute, 52 seconds.
+Growing trees.. Progress: 44%. Estimated remaining time: 1 minute, 18 seconds.
+Growing trees.. Progress: 66%. Estimated remaining time: 48 seconds.
+Growing trees.. Progress: 86%. Estimated remaining time: 20 seconds.
+INFO  [17:46:27.887] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 10/10)
+Growing trees.. Progress: 20%. Estimated remaining time: 2 minutes, 1 seconds.
+Growing trees.. Progress: 41%. Estimated remaining time: 1 minute, 27 seconds.
+Growing trees.. Progress: 62%. Estimated remaining time: 57 seconds.
+Growing trees.. Progress: 83%. Estimated remaining time: 25 seconds.
+INFO  [17:49:06.838] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 1/10)
+Growing trees.. Progress: 21%. Estimated remaining time: 1 minute, 54 seconds.
+Growing trees.. Progress: 42%. Estimated remaining time: 1 minute, 26 seconds.
+Growing trees.. Progress: 62%. Estimated remaining time: 56 seconds.
+Growing trees.. Progress: 83%. Estimated remaining time: 25 seconds.
+INFO  [17:51:46.766] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 2/10)
+Growing trees.. Progress: 22%. Estimated remaining time: 1 minute, 48 seconds.
+Growing trees.. Progress: 44%. Estimated remaining time: 1 minute, 17 seconds.
+Growing trees.. Progress: 67%. Estimated remaining time: 46 seconds.
+Growing trees.. Progress: 88%. Estimated remaining time: 17 seconds.
+INFO  [17:54:18.129] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 3/10)
+Growing trees.. Progress: 20%. Estimated remaining time: 2 minutes, 3 seconds.
+Growing trees.. Progress: 40%. Estimated remaining time: 1 minute, 32 seconds.
+Growing trees.. Progress: 62%. Estimated remaining time: 58 seconds.
+Growing trees.. Progress: 83%. Estimated remaining time: 26 seconds.
+INFO  [17:56:55.730] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 4/10)
+Growing trees.. Progress: 21%. Estimated remaining time: 1 minute, 55 seconds.
+Growing trees.. Progress: 42%. Estimated remaining time: 1 minute, 26 seconds.
+Growing trees.. Progress: 63%. Estimated remaining time: 54 seconds.
+Growing trees.. Progress: 84%. Estimated remaining time: 23 seconds.
+INFO  [17:59:31.718] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 5/10)
+Growing trees.. Progress: 21%. Estimated remaining time: 1 minute, 54 seconds.
+Growing trees.. Progress: 43%. Estimated remaining time: 1 minute, 22 seconds.
+Growing trees.. Progress: 66%. Estimated remaining time: 47 seconds.
+Growing trees.. Progress: 90%. Estimated remaining time: 13 seconds.
+INFO  [18:01:57.882] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 6/10)
+Growing trees.. Progress: 21%. Estimated remaining time: 2 minutes, 0 seconds.
+Growing trees.. Progress: 43%. Estimated remaining time: 1 minute, 22 seconds.
+Growing trees.. Progress: 65%. Estimated remaining time: 50 seconds.
+Growing trees.. Progress: 86%. Estimated remaining time: 20 seconds.
+INFO  [18:04:33.002] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 7/10)
+Growing trees.. Progress: 21%. Estimated remaining time: 1 minute, 54 seconds.
+Growing trees.. Progress: 43%. Estimated remaining time: 1 minute, 23 seconds.
+Growing trees.. Progress: 64%. Estimated remaining time: 51 seconds.
+Growing trees.. Progress: 85%. Estimated remaining time: 21 seconds.
+INFO  [18:07:08.311] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 8/10)
+Growing trees.. Progress: 22%. Estimated remaining time: 1 minute, 51 seconds.
+Growing trees.. Progress: 44%. Estimated remaining time: 1 minute, 20 seconds.
+Growing trees.. Progress: 67%. Estimated remaining time: 46 seconds.
+Growing trees.. Progress: 89%. Estimated remaining time: 14 seconds.
+INFO  [18:09:36.555] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 9/10)
+Growing trees.. Progress: 20%. Estimated remaining time: 2 minutes, 2 seconds.
+Growing trees.. Progress: 42%. Estimated remaining time: 1 minute, 26 seconds.
+Growing trees.. Progress: 66%. Estimated remaining time: 48 seconds.
+Growing trees.. Progress: 88%. Estimated remaining time: 17 seconds.
+INFO  [18:12:04.683] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 10/10)
+Growing trees.. Progress: 22%. Estimated remaining time: 1 minute, 51 seconds.
+Growing trees.. Progress: 44%. Estimated remaining time: 1 minute, 19 seconds.
+Growing trees.. Progress: 65%. Estimated remaining time: 50 seconds.
+Growing trees.. Progress: 86%. Estimated remaining time: 19 seconds.
+INFO  [18:14:37.469] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 1/10)
+Growing trees.. Progress: 21%. Estimated remaining time: 1 minute, 55 seconds.
+Growing trees.. Progress: 43%. Estimated remaining time: 1 minute, 23 seconds.
+Growing trees.. Progress: 64%. Estimated remaining time: 53 seconds.
+Growing trees.. Progress: 83%. Estimated remaining time: 24 seconds.
+INFO  [18:17:13.028] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 2/10)
+Growing trees.. Progress: 22%. Estimated remaining time: 1 minute, 48 seconds.
+Growing trees.. Progress: 45%. Estimated remaining time: 1 minute, 14 seconds.
+Growing trees.. Progress: 69%. Estimated remaining time: 42 seconds.
+Growing trees.. Progress: 92%. Estimated remaining time: 10 seconds.
+INFO  [18:19:35.860] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 3/10)
+Growing trees.. Progress: 24%. Estimated remaining time: 1 minute, 37 seconds.
+Growing trees.. Progress: 48%. Estimated remaining time: 1 minute, 7 seconds.
+Growing trees.. Progress: 72%. Estimated remaining time: 36 seconds.
+Growing trees.. Progress: 95%. Estimated remaining time: 7 seconds.
+INFO  [18:21:54.886] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 4/10)
+Growing trees.. Progress: 24%. Estimated remaining time: 1 minute, 40 seconds.
+Growing trees.. Progress: 47%. Estimated remaining time: 1 minute, 9 seconds.
+Growing trees.. Progress: 69%. Estimated remaining time: 41 seconds.
+Growing trees.. Progress: 93%. Estimated remaining time: 9 seconds.
+INFO  [18:24:17.562] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 5/10)
+Growing trees.. Progress: 25%. Estimated remaining time: 1 minute, 35 seconds.
+Growing trees.. Progress: 49%. Estimated remaining time: 1 minute, 5 seconds.
+Growing trees.. Progress: 73%. Estimated remaining time: 34 seconds.
+Growing trees.. Progress: 96%. Estimated remaining time: 5 seconds.
+INFO  [18:26:36.990] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 6/10)
+Growing trees.. Progress: 24%. Estimated remaining time: 1 minute, 38 seconds.
+Growing trees.. Progress: 47%. Estimated remaining time: 1 minute, 9 seconds.
+Growing trees.. Progress: 70%. Estimated remaining time: 39 seconds.
+Growing trees.. Progress: 95%. Estimated remaining time: 6 seconds.
+INFO  [18:28:55.365] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 7/10)
+Growing trees.. Progress: 23%. Estimated remaining time: 1 minute, 41 seconds.
+Growing trees.. Progress: 45%. Estimated remaining time: 1 minute, 14 seconds.
+Growing trees.. Progress: 69%. Estimated remaining time: 41 seconds.
+Growing trees.. Progress: 95%. Estimated remaining time: 7 seconds.
+INFO  [18:31:14.156] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 8/10)
+Growing trees.. Progress: 23%. Estimated remaining time: 1 minute, 41 seconds.
+Growing trees.. Progress: 47%. Estimated remaining time: 1 minute, 8 seconds.
+Growing trees.. Progress: 71%. Estimated remaining time: 38 seconds.
+Growing trees.. Progress: 96%. Estimated remaining time: 5 seconds.
+INFO  [18:33:32.626] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 9/10)
+Growing trees.. Progress: 23%. Estimated remaining time: 1 minute, 41 seconds.
+Growing trees.. Progress: 45%. Estimated remaining time: 1 minute, 15 seconds.
+Growing trees.. Progress: 66%. Estimated remaining time: 47 seconds.
+Growing trees.. Progress: 89%. Estimated remaining time: 15 seconds.
+INFO  [18:36:00.296] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 10/10)
+Growing trees.. Progress: 23%. Estimated remaining time: 1 minute, 44 seconds.
+Growing trees.. Progress: 45%. Estimated remaining time: 1 minute, 15 seconds.
+Growing trees.. Progress: 68%. Estimated remaining time: 43 seconds.
+Growing trees.. Progress: 93%. Estimated remaining time: 9 seconds.
+INFO  [18:38:23.350] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 1/10)
+Growing trees.. Progress: 22%. Estimated remaining time: 1 minute, 50 seconds.
+Growing trees.. Progress: 44%. Estimated remaining time: 1 minute, 17 seconds.
+Growing trees.. Progress: 69%. Estimated remaining time: 42 seconds.
+Growing trees.. Progress: 92%. Estimated remaining time: 11 seconds.
+INFO  [18:40:46.344] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 2/10)
+Growing trees.. Progress: 23%. Estimated remaining time: 1 minute, 42 seconds.
+Growing trees.. Progress: 45%. Estimated remaining time: 1 minute, 15 seconds.
+Growing trees.. Progress: 68%. Estimated remaining time: 43 seconds.
+Growing trees.. Progress: 91%. Estimated remaining time: 11 seconds.
+INFO  [18:43:09.478] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 3/10)
+Growing trees.. Progress: 23%. Estimated remaining time: 1 minute, 43 seconds.
+Growing trees.. Progress: 46%. Estimated remaining time: 1 minute, 12 seconds.
+Growing trees.. Progress: 70%. Estimated remaining time: 39 seconds.
+Growing trees.. Progress: 94%. Estimated remaining time: 8 seconds.
+INFO  [18:45:29.196] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 4/10)
+Growing trees.. Progress: 25%. Estimated remaining time: 1 minute, 33 seconds.
+Growing trees.. Progress: 50%. Estimated remaining time: 1 minute, 2 seconds.
+Growing trees.. Progress: 75%. Estimated remaining time: 31 seconds.
+Growing trees.. Progress: 98%. Estimated remaining time: 2 seconds.
+INFO  [18:47:45.598] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 5/10)
+Growing trees.. Progress: 23%. Estimated remaining time: 1 minute, 44 seconds.
+Growing trees.. Progress: 44%. Estimated remaining time: 1 minute, 17 seconds.
+Growing trees.. Progress: 67%. Estimated remaining time: 46 seconds.
+Growing trees.. Progress: 90%. Estimated remaining time: 14 seconds.
+INFO  [18:50:11.694] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 6/10)
+Growing trees.. Progress: 22%. Estimated remaining time: 1 minute, 51 seconds.
+Growing trees.. Progress: 45%. Estimated remaining time: 1 minute, 15 seconds.
+Growing trees.. Progress: 67%. Estimated remaining time: 45 seconds.
+Growing trees.. Progress: 90%. Estimated remaining time: 13 seconds.
+INFO  [18:52:36.861] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 7/10)
+Growing trees.. Progress: 21%. Estimated remaining time: 1 minute, 54 seconds.
+Growing trees.. Progress: 42%. Estimated remaining time: 1 minute, 23 seconds.
+Growing trees.. Progress: 64%. Estimated remaining time: 51 seconds.
+Growing trees.. Progress: 86%. Estimated remaining time: 19 seconds.
+INFO  [18:55:09.044] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 8/10)
+Growing trees.. Progress: 25%. Estimated remaining time: 1 minute, 34 seconds.
+Growing trees.. Progress: 50%. Estimated remaining time: 1 minute, 1 seconds.
+Growing trees.. Progress: 77%. Estimated remaining time: 27 seconds.
+INFO  [18:57:17.781] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 9/10)
+Growing trees.. Progress: 23%. Estimated remaining time: 1 minute, 41 seconds.
+Growing trees.. Progress: 46%. Estimated remaining time: 1 minute, 12 seconds.
+Growing trees.. Progress: 69%. Estimated remaining time: 41 seconds.
+Growing trees.. Progress: 92%. Estimated remaining time: 11 seconds.
+INFO  [18:59:43.359] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 10/10)
+Growing trees.. Progress: 23%. Estimated remaining time: 1 minute, 43 seconds.
+Growing trees.. Progress: 47%. Estimated remaining time: 1 minute, 10 seconds.
+Growing trees.. Progress: 72%. Estimated remaining time: 36 seconds.
+Growing trees.. Progress: 96%. Estimated remaining time: 5 seconds.
+INFO  [19:01:59.756] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 1/10)
+Growing trees.. Progress: 23%. Estimated remaining time: 1 minute, 43 seconds.
+Growing trees.. Progress: 47%. Estimated remaining time: 1 minute, 9 seconds.
+Growing trees.. Progress: 71%. Estimated remaining time: 37 seconds.
+Growing trees.. Progress: 94%. Estimated remaining time: 7 seconds.
+INFO  [19:04:19.700] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 2/10)
+Growing trees.. Progress: 23%. Estimated remaining time: 1 minute, 41 seconds.
+Growing trees.. Progress: 47%. Estimated remaining time: 1 minute, 11 seconds.
+Growing trees.. Progress: 71%. Estimated remaining time: 37 seconds.
+Growing trees.. Progress: 95%. Estimated remaining time: 6 seconds.
+INFO  [19:06:36.805] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 3/10)
+Growing trees.. Progress: 27%. Estimated remaining time: 1 minute, 25 seconds.
+Growing trees.. Progress: 52%. Estimated remaining time: 56 seconds.
+Growing trees.. Progress: 76%. Estimated remaining time: 29 seconds.
+INFO  [19:08:48.037] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 4/10)
+Growing trees.. Progress: 24%. Estimated remaining time: 1 minute, 39 seconds.
+Growing trees.. Progress: 47%. Estimated remaining time: 1 minute, 10 seconds.
+Growing trees.. Progress: 72%. Estimated remaining time: 37 seconds.
+Growing trees.. Progress: 95%. Estimated remaining time: 7 seconds.
+INFO  [19:11:08.385] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 5/10)
+Growing trees.. Progress: 22%. Estimated remaining time: 1 minute, 50 seconds.
+Growing trees.. Progress: 44%. Estimated remaining time: 1 minute, 17 seconds.
+Growing trees.. Progress: 67%. Estimated remaining time: 45 seconds.
+Growing trees.. Progress: 90%. Estimated remaining time: 13 seconds.
+INFO  [19:13:33.658] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 6/10)
+Growing trees.. Progress: 27%. Estimated remaining time: 1 minute, 25 seconds.
+Growing trees.. Progress: 50%. Estimated remaining time: 1 minute, 0 seconds.
+Growing trees.. Progress: 74%. Estimated remaining time: 32 seconds.
+Growing trees.. Progress: 100%. Estimated remaining time: 0 seconds.
+INFO  [19:15:45.429] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 7/10)
+Growing trees.. Progress: 23%. Estimated remaining time: 1 minute, 45 seconds.
+Growing trees.. Progress: 46%. Estimated remaining time: 1 minute, 13 seconds.
+Growing trees.. Progress: 69%. Estimated remaining time: 42 seconds.
+Growing trees.. Progress: 93%. Estimated remaining time: 9 seconds.
+INFO  [19:18:07.351] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 8/10)
+Growing trees.. Progress: 26%. Estimated remaining time: 1 minute, 29 seconds.
+Growing trees.. Progress: 52%. Estimated remaining time: 57 seconds.
+Growing trees.. Progress: 78%. Estimated remaining time: 26 seconds.
+INFO  [19:20:16.303] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 9/10)
+Growing trees.. Progress: 24%. Estimated remaining time: 1 minute, 38 seconds.
+Growing trees.. Progress: 49%. Estimated remaining time: 1 minute, 3 seconds.
+Growing trees.. Progress: 73%. Estimated remaining time: 33 seconds.
+Growing trees.. Progress: 98%. Estimated remaining time: 2 seconds.
+INFO  [19:22:28.752] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 10/10)
+Growing trees.. Progress: 26%. Estimated remaining time: 1 minute, 30 seconds.
+Growing trees.. Progress: 50%. Estimated remaining time: 1 minute, 1 seconds.
+Growing trees.. Progress: 75%. Estimated remaining time: 31 seconds.
+Growing trees.. Progress: 100%. Estimated remaining time: 0 seconds.
+INFO  [19:24:40.459] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 1/10)
+Growing trees.. Progress: 23%. Estimated remaining time: 1 minute, 42 seconds.
+Growing trees.. Progress: 46%. Estimated remaining time: 1 minute, 13 seconds.
+Growing trees.. Progress: 69%. Estimated remaining time: 40 seconds.
+Growing trees.. Progress: 92%. Estimated remaining time: 11 seconds.
+INFO  [19:27:06.282] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 2/10)
+Growing trees.. Progress: 25%. Estimated remaining time: 1 minute, 34 seconds.
+Growing trees.. Progress: 51%. Estimated remaining time: 1 minute, 0 seconds.
+Growing trees.. Progress: 76%. Estimated remaining time: 29 seconds.
+INFO  [19:29:17.013] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 3/10)
+Growing trees.. Progress: 24%. Estimated remaining time: 1 minute, 36 seconds.
+Growing trees.. Progress: 49%. Estimated remaining time: 1 minute, 3 seconds.
+Growing trees.. Progress: 75%. Estimated remaining time: 30 seconds.
+INFO  [19:31:26.268] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 4/10)
+Growing trees.. Progress: 23%. Estimated remaining time: 1 minute, 45 seconds.
+Growing trees.. Progress: 46%. Estimated remaining time: 1 minute, 13 seconds.
+Growing trees.. Progress: 69%. Estimated remaining time: 42 seconds.
+Growing trees.. Progress: 91%. Estimated remaining time: 11 seconds.
+INFO  [19:33:48.728] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 5/10)
+Growing trees.. Progress: 23%. Estimated remaining time: 1 minute, 42 seconds.
+Growing trees.. Progress: 46%. Estimated remaining time: 1 minute, 12 seconds.
+Growing trees.. Progress: 72%. Estimated remaining time: 36 seconds.
+Growing trees.. Progress: 96%. Estimated remaining time: 4 seconds.
+INFO  [19:36:05.312] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 6/10)
+Growing trees.. Progress: 27%. Estimated remaining time: 1 minute, 22 seconds.
+Growing trees.. Progress: 54%. Estimated remaining time: 51 seconds.
+Growing trees.. Progress: 80%. Estimated remaining time: 23 seconds.
+INFO  [19:38:09.965] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 7/10)
+Growing trees.. Progress: 24%. Estimated remaining time: 1 minute, 37 seconds.
+Growing trees.. Progress: 47%. Estimated remaining time: 1 minute, 10 seconds.
+Growing trees.. Progress: 69%. Estimated remaining time: 41 seconds.
+Growing trees.. Progress: 91%. Estimated remaining time: 11 seconds.
+INFO  [19:40:33.437] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 8/10)
+Growing trees.. Progress: 24%. Estimated remaining time: 1 minute, 37 seconds.
+Growing trees.. Progress: 47%. Estimated remaining time: 1 minute, 9 seconds.
+Growing trees.. Progress: 70%. Estimated remaining time: 40 seconds.
+Growing trees.. Progress: 94%. Estimated remaining time: 7 seconds.
+INFO  [19:42:53.116] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 9/10)
+Growing trees.. Progress: 24%. Estimated remaining time: 1 minute, 38 seconds.
+Growing trees.. Progress: 46%. Estimated remaining time: 1 minute, 12 seconds.
+Growing trees.. Progress: 69%. Estimated remaining time: 41 seconds.
+Growing trees.. Progress: 92%. Estimated remaining time: 10 seconds.
+INFO  [19:45:15.008] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 10/10)
+Growing trees.. Progress: 23%. Estimated remaining time: 1 minute, 42 seconds.
+Growing trees.. Progress: 47%. Estimated remaining time: 1 minute, 9 seconds.
+Growing trees.. Progress: 69%. Estimated remaining time: 41 seconds.
+Growing trees.. Progress: 93%. Estimated remaining time: 8 seconds.
+INFO  [19:47:34.794] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 1/10)
+Growing trees.. Progress: 23%. Estimated remaining time: 1 minute, 45 seconds.
+Growing trees.. Progress: 46%. Estimated remaining time: 1 minute, 13 seconds.
+Growing trees.. Progress: 70%. Estimated remaining time: 38 seconds.
+Growing trees.. Progress: 96%. Estimated remaining time: 4 seconds.
+INFO  [19:49:50.799] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 2/10)
+Growing trees.. Progress: 22%. Estimated remaining time: 1 minute, 48 seconds.
+Growing trees.. Progress: 46%. Estimated remaining time: 1 minute, 12 seconds.
+Growing trees.. Progress: 69%. Estimated remaining time: 41 seconds.
+Growing trees.. Progress: 92%. Estimated remaining time: 10 seconds.
+INFO  [19:52:09.960] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 3/10)
+Growing trees.. Progress: 23%. Estimated remaining time: 1 minute, 41 seconds.
+Growing trees.. Progress: 46%. Estimated remaining time: 1 minute, 12 seconds.
+Growing trees.. Progress: 69%. Estimated remaining time: 41 seconds.
+Growing trees.. Progress: 92%. Estimated remaining time: 10 seconds.
+INFO  [19:54:31.293] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 4/10)
+Growing trees.. Progress: 25%. Estimated remaining time: 1 minute, 34 seconds.
+Growing trees.. Progress: 50%. Estimated remaining time: 1 minute, 3 seconds.
+Growing trees.. Progress: 75%. Estimated remaining time: 31 seconds.
+Growing trees.. Progress: 98%. Estimated remaining time: 1 seconds.
+INFO  [19:56:45.786] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 5/10)
+Growing trees.. Progress: 26%. Estimated remaining time: 1 minute, 29 seconds.
+Growing trees.. Progress: 51%. Estimated remaining time: 59 seconds.
+Growing trees.. Progress: 77%. Estimated remaining time: 27 seconds.
+INFO  [19:58:53.750] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 6/10)
+Growing trees.. Progress: 23%. Estimated remaining time: 1 minute, 45 seconds.
+Growing trees.. Progress: 44%. Estimated remaining time: 1 minute, 18 seconds.
+Growing trees.. Progress: 67%. Estimated remaining time: 46 seconds.
+Growing trees.. Progress: 91%. Estimated remaining time: 12 seconds.
+INFO  [20:01:17.083] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 7/10)
+Growing trees.. Progress: 23%. Estimated remaining time: 1 minute, 41 seconds.
+Growing trees.. Progress: 49%. Estimated remaining time: 1 minute, 4 seconds.
+Growing trees.. Progress: 74%. Estimated remaining time: 32 seconds.
+Growing trees.. Progress: 99%. Estimated remaining time: 1 seconds.
+INFO  [20:03:29.736] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 8/10)
+Growing trees.. Progress: 24%. Estimated remaining time: 1 minute, 38 seconds.
+Growing trees.. Progress: 48%. Estimated remaining time: 1 minute, 8 seconds.
+Growing trees.. Progress: 73%. Estimated remaining time: 35 seconds.
+Growing trees.. Progress: 97%. Estimated remaining time: 3 seconds.
+INFO  [20:05:45.284] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 9/10)
+Growing trees.. Progress: 24%. Estimated remaining time: 1 minute, 37 seconds.
+Growing trees.. Progress: 48%. Estimated remaining time: 1 minute, 7 seconds.
+Growing trees.. Progress: 75%. Estimated remaining time: 30 seconds.
+Growing trees.. Progress: 100%. Estimated remaining time: 0 seconds.
+INFO  [20:07:56.632] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 10/10)
+Growing trees.. Progress: 25%. Estimated remaining time: 1 minute, 35 seconds.
+Growing trees.. Progress: 49%. Estimated remaining time: 1 minute, 4 seconds.
+Growing trees.. Progress: 74%. Estimated remaining time: 33 seconds.
+Growing trees.. Progress: 98%. Estimated remaining time: 2 seconds.
+INFO  [20:10:10.405] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 1/10)
+Growing trees.. Progress: 26%. Estimated remaining time: 1 minute, 26 seconds.
+Growing trees.. Progress: 52%. Estimated remaining time: 57 seconds.
+Growing trees.. Progress: 78%. Estimated remaining time: 26 seconds.
+INFO  [20:12:13.385] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 2/10)
+Growing trees.. Progress: 23%. Estimated remaining time: 1 minute, 41 seconds.
+Growing trees.. Progress: 46%. Estimated remaining time: 1 minute, 12 seconds.
+Growing trees.. Progress: 71%. Estimated remaining time: 37 seconds.
+Growing trees.. Progress: 95%. Estimated remaining time: 5 seconds.
+INFO  [20:14:31.802] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 3/10)
+Growing trees.. Progress: 25%. Estimated remaining time: 1 minute, 32 seconds.
+Growing trees.. Progress: 50%. Estimated remaining time: 1 minute, 0 seconds.
+Growing trees.. Progress: 78%. Estimated remaining time: 25 seconds.
+INFO  [20:16:35.759] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 4/10)
+Growing trees.. Progress: 22%. Estimated remaining time: 1 minute, 49 seconds.
+Growing trees.. Progress: 45%. Estimated remaining time: 1 minute, 16 seconds.
+Growing trees.. Progress: 68%. Estimated remaining time: 43 seconds.
+Growing trees.. Progress: 93%. Estimated remaining time: 10 seconds.
+INFO  [20:18:55.435] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 5/10)
+Growing trees.. Progress: 26%. Estimated remaining time: 1 minute, 26 seconds.
+Growing trees.. Progress: 53%. Estimated remaining time: 55 seconds.
+Growing trees.. Progress: 77%. Estimated remaining time: 27 seconds.
+INFO  [20:21:02.169] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 6/10)
+Growing trees.. Progress: 25%. Estimated remaining time: 1 minute, 34 seconds.
+Growing trees.. Progress: 53%. Estimated remaining time: 55 seconds.
+Growing trees.. Progress: 83%. Estimated remaining time: 19 seconds.
+INFO  [20:23:05.684] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 7/10)
+Growing trees.. Progress: 29%. Estimated remaining time: 1 minute, 17 seconds.
+Growing trees.. Progress: 59%. Estimated remaining time: 43 seconds.
+Growing trees.. Progress: 89%. Estimated remaining time: 11 seconds.
+INFO  [20:24:56.886] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 8/10)
+Growing trees.. Progress: 26%. Estimated remaining time: 1 minute, 27 seconds.
+Growing trees.. Progress: 55%. Estimated remaining time: 51 seconds.
+Growing trees.. Progress: 85%. Estimated remaining time: 16 seconds.
+INFO  [20:26:53.720] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 9/10)
+Growing trees.. Progress: 26%. Estimated remaining time: 1 minute, 28 seconds.
+Growing trees.. Progress: 51%. Estimated remaining time: 58 seconds.
+Growing trees.. Progress: 77%. Estimated remaining time: 27 seconds.
+Growing trees.. Progress: 100%. Estimated remaining time: 0 seconds.
+INFO  [20:29:05.460] [mlr3] Applying learner 'classif.ranger' on task 'publicData' (iter 10/10)
+Growing trees.. Progress: 24%. Estimated remaining time: 1 minute, 38 seconds.
+Growing trees.. Progress: 49%. Estimated remaining time: 1 minute, 3 seconds.
+Growing trees.. Progress: 73%. Estimated remaining time: 33 seconds.
+Growing trees.. Progress: 98%. Estimated remaining time: 2 seconds.
+           [,1]
+ [1,] 0.7534704
+ [2,] 0.7475933
+ [3,] 0.7365992
+ [4,] 0.7496727
+ [5,] 0.7411868
+ [6,] 0.7436310
+ [7,] 0.7484618
+ [8,] 0.7446443
+ [9,] 0.7517037
+[10,] 0.7519322
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.7366  0.7439  0.7480  0.7469  0.7512  0.7535 
+Warning message:
+Ignoring unknown parameters: linewidth 
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+null device 
+          1 
+null device 
+          1 

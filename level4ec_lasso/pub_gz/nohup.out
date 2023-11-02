@@ -1,0 +1,92 @@
+Loading required package: mlr3
+Loading required package: phyloseq
++ starting create.label
+Label used as case:
+   CRC
+Label used as control:
+   control
++ finished create.label.from.metadata in 0.007 s
++ starting validate.data
++++ checking overlap between labels and features
++ Keeping labels of 100 sample(s).
++++ checking sample number per class
++++ checking overlap between samples and metadata
++ finished validate.data in 0.056 s
++ starting create.label
+Label used as case:
+   CRC
+Label used as control:
+   control
++ finished create.label.from.metadata in 0.002 s
++ starting validate.data
++++ checking overlap between labels and features
++ Keeping labels of 100 sample(s).
++++ checking sample number per class
++++ checking overlap between samples and metadata
++ finished validate.data in 0.05 s
++ starting create.label
+Label used as case:
+   CRC
+Label used as control:
+   control
++ finished create.label.from.metadata in 0.003 s
++ starting validate.data
++++ checking overlap between labels and features
++ Keeping labels of 1722 sample(s).
++++ checking sample number per class
++++ checking overlap between samples and metadata
++ finished validate.data in 0.279 s
+Features successfully filtered
+Features normalized successfully.
+Features splitted for cross-validation successfully.
+Trained lasso models successfully.
+cross validation of pub_gz:
+Made predictions successfully.
+Evaluated predictions successfully.
+siamcat-class object
+label()                Label object:         662 control and 1060 CRC samples
+filt_feat()            Filtered features:    2104 features after abundance filtering
+norm_feat()            Normalized features:  2104 features normalized using log.std
+data_split()           Data split:           10 cv rounds with 10 folds
+model_list()           Model list:           100 lasso models
+feature_weights()      Feature weights:      Summary of feature weights [ see also weight_matrix() ]
+pred_matrix()          Prediction matrix:    Predictions for 1722 samples from 10 cv rounds
+eval_data()            Evaluation data:      Average AUC: 0.865
+
+contains phyloseq-class experiment-level object @phyloseq:
+phyloseq@otu_table()   OTU Table:            [ 2104 taxa and 1722 samples ]
+phyloseq@sam_data()    Sample Data:          [ 1722 samples by 1 sample variables ]
+Successfully plotted model interpretation plot to: interpretation.pdf
+Warning message:
+In model.interpretation.select.features(feature.weights = feature.weights,  :
+  WARNING: restricting amount of features to be plotted to 50
+pub_gz predict oFD:
+Features normalized successfully.
+Made predictions successfully.
+Evaluated predictions successfully.
+siamcat-class object
+label()                Label object:         50 control and 50 CRC samples
+norm_feat()            Normalized features:  2104 features normalized using log.std
+pred_matrix()          Prediction matrix:    Predictions for 100 samples from 100 cv rounds
+eval_data()            Evaluation data:      Average AUC: 0.629
+
+contains phyloseq-class experiment-level object @phyloseq:
+phyloseq@otu_table()   OTU Table:            [ 2104 taxa and 100 samples ]
+phyloseq@sam_data()    Sample Data:          [ 100 samples by 1 sample variables ]
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  0.880   0.920   0.940   0.937   0.940   0.980 
+pub_gz predict yFD:
+Features normalized successfully.
+Made predictions successfully.
+Evaluated predictions successfully.
+siamcat-class object
+label()                Label object:         50 control and 50 CRC samples
+norm_feat()            Normalized features:  2104 features normalized using log.std
+pred_matrix()          Prediction matrix:    Predictions for 100 samples from 100 cv rounds
+eval_data()            Evaluation data:      Average AUC: 0.721
+
+contains phyloseq-class experiment-level object @phyloseq:
+phyloseq@otu_table()   OTU Table:            [ 2104 taxa and 100 samples ]
+phyloseq@sam_data()    Sample Data:          [ 100 samples by 1 sample variables ]
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  0.920   0.960   0.960   0.961   0.980   1.000 

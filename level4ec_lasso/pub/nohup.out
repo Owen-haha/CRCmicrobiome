@@ -1,0 +1,116 @@
+Loading required package: mlr3
+Loading required package: phyloseq
++ starting create.label
+Label used as case:
+   CRC
+Label used as control:
+   control
++ finished create.label.from.metadata in 0.006 s
++ starting validate.data
++++ checking overlap between labels and features
++ Keeping labels of 100 sample(s).
++ Removed 560 samples from the label object...
++++ checking sample number per class
++++ checking overlap between samples and metadata
++ finished validate.data in 0.059 s
++ starting create.label
+Label used as case:
+   CRC
+Label used as control:
+   control
++ finished create.label.from.metadata in 0.002 s
++ starting validate.data
++++ checking overlap between labels and features
++ Keeping labels of 100 sample(s).
++ Removed 560 samples from the label object...
++++ checking sample number per class
++++ checking overlap between samples and metadata
++ finished validate.data in 0.05 s
++ starting create.label
+Label used as case:
+   CRC
+Label used as control:
+   control
++ finished create.label.from.metadata in 0.003 s
++ starting validate.data
++++ checking overlap between labels and features
++ Keeping labels of 1262 sample(s).
++++ checking sample number per class
++++ checking overlap between samples and metadata
++ finished validate.data in 0.217 s
+Features successfully filtered
+Features normalized successfully.
+Features splitted for cross-validation successfully.
+Trained lasso models successfully.
+cross validation of pub:
+Made predictions successfully.
+Evaluated predictions successfully.
+siamcat-class object
+label()                Label object:         662 control and 600 CRC samples
+filt_feat()            Filtered features:    2104 features after abundance filtering
+norm_feat()            Normalized features:  2104 features normalized using log.std
+data_split()           Data split:           10 cv rounds with 10 folds
+model_list()           Model list:           100 lasso models
+feature_weights()      Feature weights:      Summary of feature weights [ see also weight_matrix() ]
+pred_matrix()          Prediction matrix:    Predictions for 1262 samples from 10 cv rounds
+eval_data()            Evaluation data:      Average AUC: 0.79
+
+contains phyloseq-class experiment-level object @phyloseq:
+phyloseq@otu_table()   OTU Table:            [ 2104 taxa and 1262 samples ]
+phyloseq@sam_data()    Sample Data:          [ 1262 samples by 4 sample variables ]
+Successfully plotted model interpretation plot to: interpretation_pub_lasso_model.pdf
+Warning message:
+In model.interpretation.select.features(feature.weights = feature.weights,  :
+  WARNING: restricting amount of features to be plotted to 50
+pub predict oGZ:
++ starting validate.data
++++ checking overlap between labels and features
++ Keeping labels of 293 sample(s).
++ finished validate.data in 0.032 s
+Features normalized successfully.
+Made predictions successfully.
+Warning message:
+In validate.label(label, feat, meta, case, control, verbose) :
+  No label information given! Generating SIAMCAT object with placeholder label!
+	This SIAMCAT object is not suitable for the complete workflow...
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.7338  0.7850  0.8020  0.8024  0.8225  0.8703 
+pub predict yGZ:
++ starting validate.data
++++ checking overlap between labels and features
++ Keeping labels of 167 sample(s).
++ finished validate.data in 0.022 s
+Features normalized successfully.
+Made predictions successfully.
+Warning message:
+In validate.label(label, feat, meta, case, control, verbose) :
+  No label information given! Generating SIAMCAT object with placeholder label!
+	This SIAMCAT object is not suitable for the complete workflow...
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.6946  0.7485  0.7725  0.7685  0.7904  0.8204 
+pub predict oFD:
+Features normalized successfully.
+Made predictions successfully.
+Evaluated predictions successfully.
+siamcat-class object
+label()                Label object:         50 control and 50 CRC samples
+norm_feat()            Normalized features:  2104 features normalized using log.std
+pred_matrix()          Prediction matrix:    Predictions for 100 samples from 100 cv rounds
+eval_data()            Evaluation data:      Average AUC: 0.696
+
+contains phyloseq-class experiment-level object @phyloseq:
+phyloseq@otu_table()   OTU Table:            [ 2104 taxa and 100 samples ]
+phyloseq@sam_data()    Sample Data:          [ 100 samples by 1 sample variables ]
+pub predict yFD:
+Features normalized successfully.
+Made predictions successfully.
+Evaluated predictions successfully.
+siamcat-class object
+label()                Label object:         50 control and 50 CRC samples
+norm_feat()            Normalized features:  2104 features normalized using log.std
+pred_matrix()          Prediction matrix:    Predictions for 100 samples from 100 cv rounds
+eval_data()            Evaluation data:      Average AUC: 0.724
+
+contains phyloseq-class experiment-level object @phyloseq:
+phyloseq@otu_table()   OTU Table:            [ 2104 taxa and 100 samples ]
+phyloseq@sam_data()    Sample Data:          [ 100 samples by 1 sample variables ]
