@@ -1,5 +1,6 @@
 # CRCmicrobiome
 Gut microbiome-based machine learning model for colorectal cancer (CRC), including a large number of young/early onset CRC.
+The related results were published in _Nature Communications_ https://doi.org/10.1038/s41467-024-47523-x. 
 
 **Sample information**
 - Public data: 1262 samples from 10 studies, which includes 660 CRC and 662 controls. The integrated data file was obtained from Beghini _et al_.
